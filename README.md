@@ -18,6 +18,12 @@ The dataset is not uploaded here because it is too big. Download it, unzip it an
 5. Adds a `review_length` column and shows reviews longer than 500 characters
 6. Saves the cleaned and transformed data as a new CSV file in `output/cleaned_reviews`
 
+## Files
+
+- `movie_reviews.py` - PySpark code
+- `Movie_review.ipynb` - same code as a Colab notebook, with the output of every step
+- `output/cleaned_reviews.zip` - cleaned and transformed data
+
 ## How to run
 
 Needs Python and Java 17.
