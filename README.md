@@ -32,3 +32,5 @@ python movie_reviews.py
 - Total reviews: 50,000
 - Positive: 25,000 and Negative: 25,000
 - Reviews longer than 500 characters: 45,017
+
+The cleaned data with the `review_length` column is in `output/cleaned_reviews.zip` (unzip it to get `cleaned_reviews.csv`).
